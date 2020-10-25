@@ -9,7 +9,7 @@ A website that offers SEO consultation
 * CSS
 
 ## Website
-https://jorgeebn16.github.io/horiseon/
+https://jorgeebn16.github.io/01-HTML-CSS-Git-Challenge/
 
 ## Contributions
 Made with ❤️ by Jorge Navarro
