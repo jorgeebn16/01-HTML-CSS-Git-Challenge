@@ -10,6 +10,8 @@ A website that offers SEO consultation
 
 ## Website
 https://jorgeebn16.github.io/horiseon/
+
+## Contributions
 Made with ❤️ by Jorge Navarro
 
 ![horiseon website](./assets/images/horiseon.png)
